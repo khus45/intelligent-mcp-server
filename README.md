@@ -12,6 +12,14 @@ A security-first MCP server built to be **measurably reliable**, not merely desc
 
 The detailed Hinglish course and 20-step delivery plan is in [docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md).
 
+## Project preview
+
+<p align="center">
+  <img src="docs/assets/mcp-inspector.jpg" alt="Precision MCP Server running in the official MCP Inspector with health_check and calculate tools" width="748" />
+</p>
+
+<p align="center"><em>Live STDIO server connected in MCP Inspector. The screenshot shows the schema-backed, read-only, idempotent calculator tool.</em></p>
+
 ## Why “accuracy” needs multiple metrics
 
 An MCP server does not generate all answers itself. It exposes tools and data to a model. Therefore one vague “accuracy rate” is misleading. This project will report separate metrics:
