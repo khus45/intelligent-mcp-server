@@ -1,5 +1,10 @@
 # Precision MCP Server
 
+[![Last commit](https://img.shields.io/github/last-commit/khus45/intelligent-mcp-server?style=flat-square)](https://github.com/khus45/intelligent-mcp-server/commits/main)
+[![Commit activity](https://img.shields.io/github/commit-activity/t/khus45/intelligent-mcp-server?style=flat-square)](https://github.com/khus45/intelligent-mcp-server/commits/main)
+[![Tests](https://img.shields.io/badge/tests-12%20passing-brightgreen?style=flat-square)](src)
+[![MCP SDK](https://img.shields.io/badge/MCP%20SDK-1.30.0-blue?style=flat-square)](package.json)
+
 A security-first MCP server built to be **measurably reliable**, not merely described as “accurate.” The current foundation provides strict schemas, deterministic tools, capability-based permissions, validated outputs, safe errors, structured logs, and protocol-level tests.
 
 ## Current status
@@ -11,6 +16,10 @@ A security-first MCP server built to be **measurably reliable**, not merely desc
 - SQL, database, RAG, reranking, eval suite, HTTP/OAuth, and deployment: planned next
 
 The detailed Hinglish course and 20-step delivery plan is in [docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md).
+
+### Development history
+
+Every feature, test, documentation improvement, and security milestone is recorded as a focused Git commit. [View the complete commit history](https://github.com/khus45/intelligent-mcp-server/commits/main).
 
 ## Project preview
 
